@@ -14,7 +14,7 @@
 Copy this into your executor and run it:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MUB2W/Prawn-roblox-universal-script/refs/heads/main/src/code.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MUB2W/Prawn-roblox-universal-script/refs/heads/main/src/prawn.lua"))()
 ```
 
 ## ✨ Features
